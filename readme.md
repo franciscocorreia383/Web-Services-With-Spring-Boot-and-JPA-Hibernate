@@ -1,4 +1,4 @@
-##In progress
+## In progress
 
-###Diagram:
+### Diagram:
 <img src="./assets/diagram.png" />
