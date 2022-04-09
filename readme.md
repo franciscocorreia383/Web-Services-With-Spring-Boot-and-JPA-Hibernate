@@ -27,7 +27,7 @@ The aplications was deployed on [Heroku](https://heroku.com/)
 
 <hr/>
 
-## Diagram:
+## Domain Model:
 <img src="./assets/diagram.png" />
 
 <hr/>
