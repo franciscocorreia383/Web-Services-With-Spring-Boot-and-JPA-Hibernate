@@ -50,12 +50,12 @@ The aplications was deployed on [Heroku](https://heroku.com/)
     ```JSON
     spring.profiles.active=test
 
-- Run application as Spring Boot App
+- Run application as Spring Boot App.
 
     <img src="./assets/run.png"/>
 
-- Open [h2-console](http://localhost:8080/h2-console/) to see the tables in H2 database
+- Open [h2-console](http://localhost:8080/h2-console/) to see the tables in H2 database.
 
     <img src="./assets/db.png" />
 
-- Make your tests on TestConfig class
+- Make your tests on TestConfig class.
